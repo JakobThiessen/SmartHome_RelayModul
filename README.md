@@ -1,7 +1,4 @@
-# SmartHome_IrrigationControl
+# SmartHome_RelayModul
 
 
-
-
-
-<img src="pict/Top.png" width="300">  <img src="pict/Bot.png" width="300">
+<img src="hardware/SmartHome_RelayModul.jpg" width="300">  <img src="hardware/SmartHome_RelayModul_bot.jpg" width="300">
